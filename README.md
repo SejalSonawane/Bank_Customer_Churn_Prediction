@@ -1,4 +1,5 @@
 Project Name: Bank Customer Churn Prediction
+
 Overview:
 Our project aims to predict customer churn probability using machine learning techniques. By analyzing various factors such as customer demographics, transaction history, and behavior patterns, we can anticipate which customers are likely to leave. This proactive approach enables businesses to implement retention strategies and minimize customer attrition.
 
