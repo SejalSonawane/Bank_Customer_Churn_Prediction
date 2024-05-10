@@ -32,3 +32,12 @@ DEPLOYMENT:
 PREDICTIONS:
 1. The final prediction of the model is the range of 1-5 churn for that customer.
 2. The prediction signifies the chances of the customer to leave the services of the bank which makes the bank to focus more on such such customers and try to retain them using Sales and Marketing strategies about which I have worked in this GitHub module.
+
+CONCLUSION:
+The implementation of machine learning algorithms like XGBoost, Decision Trees, and Random Forest has significantly improved our ability to predict and manage customer churn. Among these algorithms, XGBoost stands out for its exceptional accuracy and robustness. Its advanced boosting technique enables precise
+predictions, empowering proactive retention strategies and driving business success.
+
+References: 
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+https://xgboost.readthedocs.io/en/stable/
+https://www.geeksforgeeks.org/random-forest-algorithm-in-machine-learning/
