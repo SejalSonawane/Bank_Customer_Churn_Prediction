@@ -38,6 +38,7 @@ The implementation of machine learning algorithms like XGBoost, Decision Trees, 
 predictions, empowering proactive retention strategies and driving business success.
 
 References: 
+
 https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
-https://xgboost.readthedocs.io/en/stable/
-https://www.geeksforgeeks.org/random-forest-algorithm-in-machine-learning/
+https://xgboost.readthedocs.io/en/stable
+https://www.geeksforgeeks.org/random-forest-algorithm-in-machine-learning
